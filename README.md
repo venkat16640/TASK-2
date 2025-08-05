@@ -1,4 +1,4 @@
-Power BI Sales Dashboard Project
+Power BI Sales Dashboard ProjecT
 📊 Overview
 This project creates a comprehensive sales analytics dashboard using Power BI to analyze business performance across regions, products, and customer segments. The dashboard transforms raw sales data into actionable business insights through interactive visualizations.
 🎯 Objectives
